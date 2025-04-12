@@ -23,5 +23,7 @@ just download the minix.py and make sure you have Python.,
 make sure you have python cause it depends on it,
 and make sure the .mx file is at the same directory as the .exe and .dll file.
 
+# Just Last Message
+
 ### v0.1.0
 ### Hope you enjoy
