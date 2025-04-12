@@ -3,9 +3,7 @@ Minix is a Programming Language Made by Me, its FREE and OPEN-SOURCE, It Basical
 Minix is Basically just Python +  GDScript, yes I Chose the 2 easiet
 Languages that our out there, And the Minix Extention is .mx
 
-Also Im Working on a Ubuntu/Debian Version Cause for now its only for Windows,
-
-### LOL.
+It Works on Every os that Has Python Install, there is a chance im gonna make a .exe version
 
 # How to Use
 use log() to print a string / integer on the screen.
