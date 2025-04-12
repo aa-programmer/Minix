@@ -9,3 +9,8 @@ Also Im Working on a Ubuntu/Debian Version Cause for now its only for Windows,
 
 # Installation
 ## for Windows
+1. theres an Installer.exe
+2. Download it, make sure to run it as ### ADMINISTRATOR
+3. Just Click Next a Bunch of Times
+
+### v0.1.0
