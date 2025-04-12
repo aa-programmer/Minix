@@ -1,0 +1,15 @@
+func helloworld():
+    log("hello world!") -> prints hello world!
+
+func n(x, y):
+    ret x + y -> returns x + y
+
+helloworld()
+x = n(1,2)
+y = n(3,4)
+z = rand_integer(1, 10)
+t = rand_string(['hello', 'world'])
+log(x)
+log(y)
+log(z)
+log(t)
