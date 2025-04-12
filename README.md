@@ -21,7 +21,7 @@ make sure the .mx file is in the same directory as the .exe file.
 
 # Installation
 ## for Windows
-just download the minix.exe and python313.dll file,
+just download the minix.py and make sure you have Python.,
 make sure you have python cause it depends on it,
 and make sure the .mx file is at the same directory as the .exe and .dll file.
 
