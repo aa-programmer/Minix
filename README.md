@@ -1,4 +1,7 @@
 # Minix
+## NOTE: In A Few Days I Will Make It Compile To ASM not Python
+
+## About
 Minix is a Programming Language Made by Me, its FREE and OPEN-SOURCE, It Basically just translates From mx to Python,
 Minix is Basically just Python +  GDScript, yes I Chose the 2 easiet
 Languages that our out there, And the Minix Extention is .mx
